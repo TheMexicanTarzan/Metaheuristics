@@ -2,7 +2,7 @@
 
 ## Description
 This is a link tree to a series of proyects in which a set of metaheuristics were used to solve the Travelling Salesman Problem and the graph coloring problem. (In Mosel)
-
+---
 ### Projects and links
 
 #### Ant Colony Optimization for the Travelling Salesman Problem: 
